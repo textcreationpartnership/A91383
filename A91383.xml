@@ -1,0 +1,218 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The heads of a conference delivered by Mr. Pymm. ; At a committee of both Houses, Junii 24, 1641.</title>
+            <author>Pym, John, 1584-1643.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91383</idno>
+            <idno type="STC">Wing P4268</idno>
+            <idno type="STC">ESTC R211488</idno>
+            <idno type="EEBO-CITATION">45097901</idno>
+            <idno type="OCLC">ocm 45097901</idno>
+            <idno type="VID">171480</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91383)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171480)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2575:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The heads of a conference delivered by Mr. Pymm. ; At a committee of both Houses, Junii 24, 1641.</title>
+                  <author>Pym, John, 1584-1643.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>printed in the yeer 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's device (McK. 150) on t.p.</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1625-1649.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171480:1"/>
+            <p>THE HEADS OF A CONFERENCE DELIVERED BY Mr. Pymm.</p>
+            <p>At a COMMITTEE of both Houſes, <hi>Junii</hi> 24. 1641.</p>
+            <figure>
+               <q xml:lang="lat">OS HOMINI SVBLIME DEDIT</q>
+            </figure>
+            <p>Printed in the yeer 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:171480:2"/>
+            <pb n="1" facs="tcp:171480:2"/>
+            <opener>
+               <dateline>
+                  <date>Die jovis 24. Junii, 1641.</date>
+               </dateline>
+            </opener>
+            <div n="1" type="part">
+               <head>THe firſt Heade is concerning the disbanding of the Armies, and under this there are ſeverall parti<g ref="char:EOLhyphen"/>culars.</head>
+               <list>
+                  <item>1. That five Regiments, according to the former Order of both Houſes, be firſt disbanded.</item>
+                  <item>2. That the Commiſſioners for Scotland be in<g ref="char:EOLhyphen"/>treated to retire ſome part of their Army.</item>
+                  <item>3. That their Lordſhips will joyne with us in a petition to his Majeſtie, to declare his pleaſure con<g ref="char:EOLhyphen"/>cerning the disbanding of the five Regiments, for which there is preſent monies provided, and of the reſt of the Armie as ſoon as monie is ready.</item>
+                  <item>4. And to declare if any be refractory, and con<g ref="char:EOLhyphen"/>temne his Majeſties authoritie, that hee will uſe it for the puniſhment of them.</item>
+                  <item>5. And that the Lord Generall goe downe to his charge of the Armie, and begin his journey on Saturday next, and that the Maſter of the Ord<g ref="char:EOLhyphen"/>nance go then down alſo, to take care of his charge of Artillery.</item>
+               </list>
+            </div>
+            <div n="2" type="part">
+               <head>The ſecond Head is concerning his Majeſties journey to Scotland.</head>
+               <p>That his Majeſtie will be pleaſed to allow a con<g ref="char:EOLhyphen"/>venient time before his journey into Scotland, that
+<pb n="2" facs="tcp:171480:3"/>
+both Armies bee firſt disbanded, and ſome of the buſineſſe of importance, concerning the peace of the Kingdome depending in Parliament, may be diſpatched before his going: This is ſeconded with divers reaſons.
+<list>
+                     <item>1. The ſafetie of his Majeſties perſon.</item>
+                     <item>2. Preventing the Jealouſies of his Subjects.</item>
+                     <item>3. Suppreſſing of the hopes of perſons<g ref="char:punc">▪</g> ill<g ref="char:EOLunhyphen"/>affected, that may have deſignes upon the Armie, to diſturbe the peace of the Kingdome.</item>
+                     <item>4. Great advantage to the Kings Affaires, and contentment to his People.</item>
+                     <item>5. That ſome of the Bills now depending in Par<g ref="char:EOLhyphen"/>liament, whereof divers are ſent up already to the Lords, and ſome proceedings in this Houſe may receive his royall aſſent before he goe to Scotland, and that wee may have time to paſſe the Bill of <hi>Tonnage</hi> to his Majeſtie, for ſupporting of the royall eſtate, and to ſettle his Majeſties Revenues for the beſt advantage of his ſervice, and for theſe reaſons to allow ſome time before he goe into the North.</item>
+                  </list>
+               </p>
+            </div>
+            <div n="3" type="part">
+               <head>The third Head concerning his Majeſties Councell and Miniſters of State.</head>
+               <p>Both Houſes to make ſuit to his Majeſtie,
+<list>
+                     <item>1. To re<g ref="char:EOLhyphen"/>move from him all ſuch Councellors as I am com<g ref="char:EOLhyphen"/>manded to deſcribe, <hi>viz.</hi> ſuch as have been active for the time paſt, in furthering thoſe courſes contrary to Religion, liberty, good government of the Kingdome, and as have lately intereſſed them<g ref="char:EOLhyphen"/>ſelves in thoſe Councels, to ſtir up diviſion be<g ref="char:EOLhyphen"/>tweene him and his people.</item>
+                     <item>
+                        <pb n="3" facs="tcp:171480:3"/>2. As we deſire removall of thoſe that are evill, ſo to take into his Councell, for managing of the great affaires of this Kingdome, ſuch Officers and Councellors as his People and Parliament may have juſt cauſe to confide in. This is all con<g ref="char:EOLhyphen"/>cerning the third Head.</item>
+                  </list>
+               </p>
+            </div>
+            <div n="4" type="part">
+               <head>The fourth Head touching the Queenes moſt Excellent Majeſtie, which containeth divers particulars.</head>
+               <list>
+                  <item>1. That his Majeſtie be pleaſed, by advice of his Parliament, to perſwade the Queen to accept ſome of the Nobility, &amp; others of truſt into her Majeſties ſervice, into ſuch places as are now in her diſpoſall.</item>
+                  <item>2. That no Jeſuit nor none of Orders, what Countrey-men ſoever, whether French or Italian, be received into her Majeſties ſervice, nor any Prieſt of his Majeſties Dominion, Engliſh, Scotiſh, or Iriſh, and that they be reſtrained from comming to Court.</item>
+                  <item>3. That the Colledge of <hi>Capuchins</hi> at Somerſet<g ref="char:EOLhyphen"/>houſe may be diſſolvd, &amp; ſent out of the Kingdom. Theſe two which I laſt mentioned, concerning the Queene, Prieſts, Jeſuits and Capuchins, I am com<g ref="char:EOLhyphen"/>manded to deliver you ſome particulars for.
+<list>
+                        <item>1. Publicke danger, and ſcandall of this King<g ref="char:EOLhyphen"/>dome, and peace of the Kingdome.</item>
+                        <item>2. Diſ-affection of ſome of thoſe wicked Conſpi<g ref="char:EOLhyphen"/>rators is expreſſed in two Letters, which Letters were here read openly.</item>
+                        <item>3. A particular Letter of Father <hi>Phillips</hi> here alſo read.</item>
+                        <item>4. Becauſe of the Prieſts, Jeſuits, and the
+<pb n="4" facs="tcp:171480:4"/>
+Colledge there are divers great quantities of Gold tranſported frequently.</item>
+                     </list>
+                  </item>
+                  <item>4. Particular that concerneth the Queene, is upon ſpeciall occaſion of his Majeſties abſence; that their Lordſhips will be pleaſed to joyne with us to adviſe the King, that ſome of the Nobility and others of quality, with competent Guards, may be appointed to attend the Queenes perſon, againſt all deſignes of Papiſts, and of ill-affected perſons, and of reſtraining reſort thither in his abſence.</item>
+               </list>
+            </div>
+            <div n="5" type="part">
+               <p>The fifth Head concerneth the Kings Children, That ſome perſons of publick truſt, and well affected in Reli<g ref="char:EOLhyphen"/>gion, may be placed about the Prince, who may take care of his education, and the reſt of his Children; eſpecially in matters of Religion and libertie.</p>
+            </div>
+            <div n="6" type="part">
+               <p>The ſixth Head concerneth ſuch as ſhall come into the Kingdome, with titles of being the Popes Nuntio, that it may be declared, that if any man come into this King<g ref="char:EOLhyphen"/>dome with Inſtructions from the Pope of <hi>Rome,</hi> be in caſe of high Treaſon out of the Kings protection, and out of the protection of the Law. And I am to informe you that there is notice given, upon very good grounds, that Count <hi>Rocetto</hi> doth yet continue in the Kingdome, and yet reſorts unto the Court.</p>
+            </div>
+            <div n="7" type="part">
+               <head>The ſeventh Head is concerning the ſecuritie and peace of the Kingdome.</head>
+               <p>
+                  <list>
+                     <item>1. That there may be good Lord Lievtenants, and Deputy Lievtenants<g ref="char:punc">▪</g> and ſuch as may be faith<g ref="char:EOLhyphen"/>full and truſty, and carefull of the peace of the king<g ref="char:EOLhyphen"/>dome.</item>
+                     <item>2. That the Trained Bands be furniſhed with
+<pb n="5" facs="tcp:171480:4"/>
+Armes, and Powder, and Bullets, and exerciſed, and made fit for ſervice; and that a ſpeciall oath may be prepared, by conſent of both Houſes, autho<g ref="char:EOLhyphen"/>riſed by Law, and to be taken by the Lord Liev<g ref="char:EOLhyphen"/>tenants, and Deputy Lievtenants, Captaines, and other Officers; ſuch an oath as may be fit to ſecure us in theſe times of Danger.</item>
+                     <item>3. That the Cinque Ports, and all the Ports of the Kingdome may be put into good hands, and a liſt of thoſe in whoſe charge they now are, may be preſented in Parliament; and ſpeciall care for the reparation and proviſion of thoſe Forts.</item>
+                     <item>4. That my Lord Admiral may inform the Parlia<g ref="char:EOLhyphen"/>ment, in what caſe his Majeſties Navie is, which is to be provided for, out of <hi>Tonnage</hi> and <hi>Poun<g ref="char:EOLhyphen"/>dage,</hi> for the ſecurity and peace of the Kingdome.</item>
+                  </list>
+               </p>
+            </div>
+            <div n="8" type="part">
+               <p>The eight Head, That his Majeſtie be pleaſed to give directions to his learned Councell, to prepare a Generall Pardon in ſuch a large manner, as may be for the reliefe of his Majeſties Subjects.</p>
+            </div>
+            <div n="9" type="part">
+               <p>The ninth Head: And that doth concerne a Commit<g ref="char:EOLhyphen"/>tee of both Houſes, that their Lordſhips would appoint a number of their members, to joyne together with a pro<g ref="char:EOLhyphen"/>portionable number of this Houſe, who from time to time may confer upon ſuch particular Cauſes, as ſhall be moſt effectuall for the Common good.</p>
+            </div>
+            <div type="part">
+               <p>The tenth Head, That his Majeſtie be moved, that hee would be pleaſed to be very ſparing in ſending for Pa<g ref="char:EOLhyphen"/>piſts to Court, and that if any ſhall come without being ſent for, That the Lawes be ſeverely put in execution againſt them: And that the Engliſh Ladies that are
+<pb n="6" facs="tcp:171480:5"/>
+Recuſants bee removed from Court; and that hïs Majeſtie bee moved to give his aſſent, that the per<g ref="char:EOLhyphen"/>ſons of the moſt active Papiſts, either Lords, or Commons, may bee ſo reſtrained, as may bee moſt neceſſary for the ſafety of the Kingdome, and that no penſions be allowed to ſuch Recuſants as are held dangerous to the State.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
